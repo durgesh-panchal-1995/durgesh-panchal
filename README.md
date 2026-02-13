@@ -36,10 +36,9 @@ Performance Optimization, Accessibility (a11y), Responsive Design
 
 - Design and develop scalable frontend architectures
 - Build reusable, maintainable UI components
-- Integrate REST APIs and handle complex data flows
 - Optimize performance and improve page load times
 - Mentor junior developers and review code quality
-- Collaborate with designers, backend teams, and stakeholders
+- Collaborate with designers, backend teams, Team leads and stakeholders
 
 
 ### 🌟 Featured Projects

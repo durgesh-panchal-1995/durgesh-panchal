@@ -6,7 +6,6 @@ Building scalable, high-performance, user-centric web applications
 
 
 ### 👨‍💻 About Me
-
 - 7+ years of experience in frontend development
 - 3+ years working deeply with React & Vue ecosystems
 - Strong focus on performance, scalability, and clean architecture
@@ -17,7 +16,7 @@ Building scalable, high-performance, user-centric web applications
 ### 🛠 Tech Stack
 
 **Frontend:**  
-React.js, Vue.js, JavaScript (ES6+), TypeScript  
+HTML, CSS, React.js, Vue.js, JavaScript (ES6+), TypeScript  
 
 **State Management:**  
 Redux, Vuex, Pinia  
@@ -29,7 +28,7 @@ CSS3, SCSS, Tailwind CSS, Bootstrap
 Git, GitHub, Vite, Webpack, Axios, REST APIs  
 
 **Other:**  
-Performance Optimization, Accessibility (a11y), Responsive Design
+Performance Optimization, Accessibility (a11y), Responsive Design, Component-based Pattern
 
 
 ### 🚀 What I Do
@@ -43,34 +42,26 @@ Performance Optimization, Accessibility (a11y), Responsive Design
 
 ### 🌟 Featured Projects
 
-#### 🔹 React Admin Dashboard
-- Role-based authentication
-- API integration with Axios
-- Performance optimized using memoization
-- Tech: React, Redux, Tailwind  
-🔗 Live Demo | 📂 GitHub Repo
+#### 🔹 Vue Document Scheduler
+- Document Scheduling
+- Template Rendering
+- Component Pattern | Validation
+- Tech: Vue, HTMl, CSS, JS, Options API   
 
-#### 🔹 Vue E-commerce Platform
-- Product listing & cart management
-- Vuex / Pinia state management
-- Dark / Light theme support
-- Tech: Vue 3, Pinia, Tailwind  
-🔗 Live Demo | 📂 GitHub Repo
 
-#### 🔹 Frontend Performance Playground
-- Lazy loading & code splitting
-- Lighthouse score optimization
-- Real-world performance techniques
-- Tech: React, Webpack  
-📂 GitHub Repo
+#### 🔹 React Responsive UI Platform
+- Brand Pricing & Career Journey
+- Component-Based Architecture
+- Frontend Performance & optimization
+- Tech: React, HTML, CSS, JavaScript  
 
 
 
 ### 📫 Let's Connect
 
-- 📧 Email: your.email@gmail.com
-- 🌐 Portfolio: https://yourportfolio.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 Email: durgeshpanchal1995@gmail.com
+- 📞 Contact No: 8097275967
+- 💼 LinkedIn: https://www.linkedin.com/in/durgeshpanchal95/
 
 🔍 Open to Senior Frontend / Frontend Lead opportunities  
 🌍 Remote | Product-based companies | Scale-focused teams
